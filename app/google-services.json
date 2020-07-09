@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "744646384000",
+    "firebase_url": "https://socioblog-5fd45.firebaseio.com",
+    "project_id": "socioblog-5fd45",
+    "storage_bucket": "socioblog-5fd45.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:744646384000:android:8a440d1598aeb8a2",
+        "android_client_info": {
+          "package_name": "com.star.group.socioblog"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "744646384000-suuj6lah9st6artdq3vejkausjn9ht0v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBq0ffZwfh490WciuCLUbzjo5vrdkDz22Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "744646384000-suuj6lah9st6artdq3vejkausjn9ht0v.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
